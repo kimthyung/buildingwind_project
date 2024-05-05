@@ -1,4 +1,4 @@
-# Prediction of Wind Fence placement for building wind by CFD based Artificial intelligence
+# Prediction of Wind Fence placement for building wind by CFD based Artificial intelligence in a Applied Fluid Dynamics Course, Yonsei University
 
 ### Introdiction
 
